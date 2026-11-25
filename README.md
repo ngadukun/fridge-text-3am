@@ -1,8 +1,8 @@
 # The 3AM Fridge Text
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-7c3aed)](https://make.fun/bounty/u-deysumbrella-the-3am-fridge-text-4c3e721d)
-[![Bounty](https://img.shields.io/badge/bounty-%242%20winner--takes--all-22c55e)](https://make.fun/bounty/u-deysumbrella-the-3am-fridge-text-4c3e721d)
-[![Entry](https://img.shields.io/badge/entry-one--line-f97316)](https://github.com/ngadukun/fridge-text-3am)
+[![make.fun · u-deysumbrella-the-3am-fridge-text-4c3e721d](https://make.fun/badge/u-deysumbrella-the-3am-fridge-text-4c3e721d.svg)](https://make.fun/bounty/u-deysumbrella-the-3am-fridge-text-4c3e721d?utm_source=github&utm_medium=readme&utm_campaign=u-deysumbrella-the-3am-fridge-text-4c3e721d)
+[![rank](https://make.fun/badge/u-deysumbrella-the-3am-fridge-text-4c3e721d/ngadukun/fridge-text-3am/rank.svg)](https://make.fun/bounty/u-deysumbrella-the-3am-fridge-text-4c3e721d/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-deysumbrella-the-3am-fridge-text-4c3e721d)
+[![reward](https://make.fun/badge/u-deysumbrella-the-3am-fridge-text-4c3e721d/ngadukun/fridge-text-3am/reward.svg)](https://make.fun/bounty/u-deysumbrella-the-3am-fridge-text-4c3e721d?utm_source=github&utm_medium=readme&utm_campaign=u-deysumbrella-the-3am-fridge-text-4c3e721d)
 
 A one-line entry for the make.fun bounty **"The 3AM Fridge Text"** — a text message someone sends to their fridge at 3AM.
 
